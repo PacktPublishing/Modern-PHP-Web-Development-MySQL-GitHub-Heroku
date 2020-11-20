@@ -1,0 +1,3 @@
+PHP Basics Source Code: https://github.com/trevoirwilliams/php_primer
+
+PHP Forms and MySQL and User Authentication: https://github.com/trevoirwilliams/attendance
