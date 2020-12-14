@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/modern-php-web-development-with-mysql-github-and-heroku-video/9781801070669)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Attendance
 Code used for PHP Bootstrap 4 Form and CRUD Application Development Exercises.
 
